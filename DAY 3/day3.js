@@ -1,4 +1,4 @@
-//Promise for async
+//Promise for async.......
 //JS single threaded
 // const promiseOne=new Promise((resolve, reject)=>{
 //     console.log("Promise Task 1");
