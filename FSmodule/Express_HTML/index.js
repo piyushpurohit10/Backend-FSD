@@ -7,7 +7,8 @@ app.get('/',(req,res)=>{
         if(err){
             res.status(500).send('Error reading file');
             return;
-        } else {
+        } 
+        else {
             res.send(data);
         }
     });
